@@ -1,6 +1,6 @@
 ## 👥 Quem somos?
 
-Olá! Nós somos o Facompetindo, um grupo da FACOM/UFMS destinado a participar de competições de programação da Faculdade de Computação da UFMS!
+Olá! Nós somos o Facompetindo, um grupo da FACOM/UFMS destinado a participar de competições de programação!
 
 ## 🧠 Competições que participamos
 
