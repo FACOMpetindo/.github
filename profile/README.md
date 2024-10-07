@@ -18,3 +18,5 @@ Queremos incentivar outras pessoas a estudarem programação competitiva, então
 - [Banco de exercícios resolvidos do Beecrowd](https://github.com/FACOMpetindo/beecrowd)
 - [Banco de exercícios resolvidos do Codeforces](https://github.com/FACOMpetindo/codeforces)
 - [Banco de exercícios resolvidos do Leetcode](https://github.com/FACOMpetindo/leetcode)
+
+Confira outros links [aqui](https://linktr.ee/facompetindo)!
