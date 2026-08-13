@@ -15,8 +15,7 @@ Atualmente focamos principalmente em três competições:
 Queremos incentivar outras pessoas a estudarem programação competitiva, então disponibilizamos alguns repositórios publicamente:
 
 - [Livro guia para programação competitiva](https://github.com/FACOMpetindo/programacao-competitiva)
-- [Banco de exercícios resolvidos do Beecrowd](https://github.com/FACOMpetindo/beecrowd)
-- [Banco de exercícios resolvidos do Codeforces](https://github.com/FACOMpetindo/codeforces)
-- [Banco de exercícios resolvidos do Leetcode](https://github.com/FACOMpetindo/leetcode)
+- [Bot do Discord para programação competitiva](https://github.com/FACOMpetindo/Falforces)
+- [Banco de exercícios resolvidos](https://github.com/FACOMpetindo/solucoes)
 
 Confira outros links [aqui](https://linktr.ee/facompetindo)!
