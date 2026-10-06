@@ -2,6 +2,8 @@
 
 Olá! Nós somos o Facompetindo, um grupo da FACOM/UFMS destinado a participar de competições de programação!
 
+Se você é professor, estudante, treinador ou representante de outra universidade e quer conversar sobre o projeto: [Agende uma conversa](https://calendar.app.google/uwa4nPjzLgdoG7Tg7)
+
 ## 🧠 Competições que participamos
 
 Atualmente focamos principalmente em três competições:
